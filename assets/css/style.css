@@ -1,0 +1,27 @@
+body{
+  font-family: "Open Sans", sans-serif;
+  color: #212529;
+  font-weight: 400;
+
+}
+
+.rosado{
+  background-color: #e83e8c
+}
+
+.tamaño-logo{
+  height: 4rem;
+}
+
+.logo-footer{
+  height: 6rem;
+}
+
+.hero-h1, .h1, h5{
+  font-weight: 700;
+}
+
+.card, h1{
+  float: none;
+  margin: 0 auto;
+}
